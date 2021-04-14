@@ -8,8 +8,10 @@ class App extends React.Component {
   render() {
     return(
     <div className = "App">
-      <MainZone />
+      <MainZone>
       <PlayerIcon />
+      </MainZone>
+      
     </div>
     )
   }
