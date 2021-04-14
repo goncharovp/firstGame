@@ -1,4 +1,4 @@
-.App {
+ .App {
   text-align: center;
 }
 
@@ -35,4 +35,10 @@
   to {
     transform: rotate(360deg);
   }
+} 
+
+.MainZone {
+  border: 5px solid rgb(0, 0, 0);
+  width: 500px;
+  height: 500px;
 }
